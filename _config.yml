@@ -2,8 +2,8 @@ theme: jekyll-theme-minimal
 logo: /assets/img/logo.png
 title: Wansatilab's homepage
 description: A Associação Moçambicana - Mulheres na Tecnologia
-domain: wansatilab.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://wansatilab.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: wansati.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://wansati.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /   # place folder name if the site is served in a subfolder
 show_downloads: true
 google_analytics:
