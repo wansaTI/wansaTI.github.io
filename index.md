@@ -1,6 +1,5 @@
 ---
-layout: soon
-permalink: /
+layout: home
 ---
 
 # Home
