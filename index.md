@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: 
 ---
+## Wansatilab
 
 ## Quem Somos
 A Associação Moçambicana - Mulheres na Tecnologia, adiante designada simplesmente por WansaTI Lab, é uma pessoa colectiva de direito privado, sem fins lucrativos e com interesse social, dotada de personalidade jurídica, com autonomia administrativa, financeira e patrimonial, que se rege pelos presentes estatutos e por regulamentação interna, e, em tudo o que neles for omisso pela legislação aplicável.
